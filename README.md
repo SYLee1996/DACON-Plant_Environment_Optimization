@@ -1,6 +1,6 @@
 # DACON-Plant_Environment_Optimization - 생육 환경 최적화 경진대회
 
-## Pre-trained CodeBERTa, GraphCodeBERT, electra, MiniLM Ensemble
+## RNN & SENet Regressor + Shake-ResNet Ensemble
 
 + 주최 및 주관: 데이콘 
 + 링크: https://dacon.io/competitions/official/235900/overview/description
