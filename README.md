@@ -1,4 +1,4 @@
-# DACON-Plant_Environment_Optimization - 생육 환경 최적화 경진대회
+# DACON-Plant_Environment_Optimization(생육 환경 최적화)
 
 ## RNN & SENet Regressor + Shake-ResNet Ensemble
 
